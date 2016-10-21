@@ -1,4 +1,5 @@
-# Project On Logical Concurrency Using Sequential Proofs
+#ConLop : Logical Concurrency Using Sequential Proofs
+####A simple tool to generate the locking of Criticle Section based on some Asserts and Sequential Proofs.
 ```
 The deatiled description of the project is there in Readme.pdf
 ```
